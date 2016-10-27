@@ -14,7 +14,6 @@ from pixy import *
 from ctypes import *
 
 # TODO: #
-# scope of frame?
 
 # Modifies: frame
 # Effects: prints block parameters to screen
